@@ -1,0 +1,14 @@
+#server.port=9091
+#
+#spring.datasource.url=jdbc:mysql://localhost:3306/spboot
+#spring.datasource.username=root
+#spring.datasource.password=Password
+#
+#hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+#spring.jpa.hibernate.ddl-auto=update
+#
+#hibernate.show_sql=true
+#
+#spring.h2.console.enabled=true
+#spring.mvc.view.prefix=/WEB-INF/jsp/
+#spring.mvc.view.suffix=.jsp

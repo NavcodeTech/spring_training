@@ -1,0 +1,17 @@
+server:
+  port:  2021
+
+spring:
+  datasource:
+    url:  jdbc:mysql://localhost:3306/nsboot
+    username:  root
+    password:  Password
+  
+  mvc:
+    view:
+      prefix:  /WEB-INF/jsp/
+      suffix:  .jsp
+
+hibernate:
+  dialect: org.hibernate.dialect.MYSQL5Dialect
+  show_sql: true

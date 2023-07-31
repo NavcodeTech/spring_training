@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+form,.result{
+	
+	border:outset blue 120px;
+	width:30%;
+	margin-left: 390px;
+	padding: 30px;
+	margin-top: 100px;
+}
+label{
+	width: 120px;;
+	float:left;
+	color: darkblue;
+}
+input{
+	width: 120px;;
+	margin-top:5px;
+}
+body{
+	background-color: lightgoldenrodyellow;
+}
+input{
+	width: 120px;;
+	margin-top:5px;
+}
+body{
+	background-color: lightgoldenrodyellow;
+}
+.error1
+{
+	
+	border:double red 20px;
+	width:30%;
+	margin-left: 390px;
+	padding: 30px;
+	margin-top: 100px;
+}
+h4{
+	font-size: 20px;
+	color: white;
+	background-color: darkred;
+}
+table{
+	border:blue double;
+	width:60%;
+}
+td,tr,th{
+	border: solid royalblue;
+}
+
+.id1
+{
+margin-left:60px;
+}
